@@ -1,0 +1,20 @@
+Course 1: Week 5 Basics Of PHP
+
+-------------------------------
+PHP Keywords:
+All variables start with a $
+Case matters;
+$name is different than $Name
+
+Strings:
+
+Strings can be single or double quotes. They are different however.
+
+Consider double quote strings as smart strings
+backslash is esc character (\)
+concatenation is . and not +
+
+output :
+echo: can be treated like a function with one parameter.
+
+print: is a function.  Only one parameter, but parentheses are optional, so it can look like a language construct.
